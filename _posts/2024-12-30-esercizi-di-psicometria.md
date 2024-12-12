@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Esercizi di psicometria"
-author: "Stefano"
+author: "Inela"
 ---
 
 Lo scopo di questo eserciziario è di fornire agli studenti del corso di Psicometria di utili esercizi da risolvere al fine di giungere ad un'adeguata preparazione dell'esame. 
