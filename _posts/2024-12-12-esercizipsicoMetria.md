@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A"
+title:  "Psicometria"
 author: "Stefano Dalla Bona"
 tags: ["Psichometrics", "Exercises"]
 ---
@@ -11,6 +11,4 @@ Alcuni esercizi sono indicati come necessari all'autovalutazione del proprio liv
 
 Altri esercizi sono invece indicati per aumentare ulteriormente la comprensione degli argomenti di studio e vanno oltre ai criteri valutativi dell'esame. Questi esercizi vengono indicati attraverso l'utilizzo dell'icona .
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
