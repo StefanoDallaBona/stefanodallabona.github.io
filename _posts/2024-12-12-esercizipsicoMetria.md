@@ -11,4 +11,4 @@ Alcuni esercizi sono indicati come necessari all'autovalutazione del proprio liv
 
 Altri esercizi sono invece indicati per aumentare ulteriormente la comprensione degli argomenti di studio e vanno oltre ai criteri valutativi dell'esame. Questi esercizi vengono indicati attraverso l'utilizzo dell'icona .
 
-<a href="https://stefanodallabona.github.io/slides/EserciziUno.html" target="_blank"> Esercizi Prima Parte</a>
+<a href="https://stefanodallabona.github.io/slides/EserciziUno.html#/title-slide" target="_blank"> Esercizi Prima Parte</a>
