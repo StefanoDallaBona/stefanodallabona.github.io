@@ -5,9 +5,9 @@ url:           https://stefanodallabona.github.io
 
 # Author
 author:      Stefano Dalla Bona
-  name:        
+  name:        Stefano
   email:        stefanodallabona97@gmail.com
-  url:          
+  url:           https://stefanodallabona.github.io
 
 # Build settings
 markdown:       kramdown
@@ -35,4 +35,6 @@ related_posts_section:
 # Links to social media
 social:
   email: stefanodallabona97@gmail.com
+  twitter: 
+  linkedIn: 
   github: https://github.com/StefanoDallaBona
