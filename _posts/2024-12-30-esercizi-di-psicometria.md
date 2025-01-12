@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🇮🇹 - Esercizi di psicometria"
+title: "🇮🇹 - Esercizi di Psicometria"
 author: "Stefano Dalla Bona"
 tags: ["Psichometrics", "Exercises"]
 ---
