@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "L: ITA - Esercizi di psicometria"
+title: "🇮🇹 - Esercizi di psicometria"
 author: "Stefano Dalla Bona"
 tags: ["Psichometrics", "Exercises"]
 ---
 
-In questa pagina vengono aggiunti degli eserciziari per fornire agli studenti del corso di Psicometria di utili esercizi da risolvere al fine di giungere ad un'adeguata preparazione dell'esame. 
+In questa pagina vengono aggiunti degli eserciziari per fornire agli studenti del corso di Psicometria di ulteriori esercizi da risolvere al fine di giungere ad un'adeguata preparazione dell'esame. Il totale degli esercizi è già disponibile. Le soluzioni vengono aggiunte alla fine della trattazione di ogni modulo.
 
 Esercizi:
 
