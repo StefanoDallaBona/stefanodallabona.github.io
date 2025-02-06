@@ -9,5 +9,7 @@ Lo scopo di questa sezione è di fornire agli studenti del corso di Tecniche di 
 
 Alcuni esercizi sono indicati come necessari all'autovalutazione del proprio livello di comprensione dei concetti che si rivedranno in sede di esame. Tali esercizi sono presentati nel seguente elenco:
 
+<a href="https://stefanodallabona.github.io/slides/Esercizi_RA_1_1.html#/title-slide" target="_blank"> Esercizi sulla prima parte</a>
 
-<a href="https://stefanodallabona.github.io/slides/eserciziavanzatini.html#/title-slide" target="_blank"> Esercizi sulla prima parte</a>
+
+<a href="https://stefanodallabona.github.io/slides/eserciziavanzatini.html#/title-slide" target="_blank"> Esercizi complemetari </a>
